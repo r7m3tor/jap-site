@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-image: url("bg.jpg");background-repeat: repeat;}
+p {font-size: 0.8em;}
+* {opacity: 0.98;}
